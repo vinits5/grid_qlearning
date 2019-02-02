@@ -25,8 +25,13 @@ Sample examples are already provided.
 **python qlearning.py --mode test**\
 *model* is used to define the world file used in maps/ folder.\
 
-#### Following is one of result:
+#### Trained Agent:
 ![](https://github.com/vinits5/grid_qlearning/blob/master/world10x10_model1/trained_agent.gif)
+
+#### State Value:
+<p align="center">
+  <img src="https://github.com/vinits5/grid_qlearning/blob/master/world10x10_model1/state_value.gif" title="State Value GIF">
+</p>
 
 Basically,
 * This is part of code where you have to write functions to deal with environment.
