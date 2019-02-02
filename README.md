@@ -26,7 +26,7 @@ Sample examples are already provided.
 *model* is used to define the world file used in maps/ folder.\
 
 #### Following is one of result:
-[](https://github.com/vinits5/grid_qlearning/blob/master/world10x10_model1/trained_agent.gif)
+![](https://github.com/vinits5/grid_qlearning/blob/master/world10x10_model1/trained_agent.gif)
 
 Basically,
 * This is part of code where you have to write functions to deal with environment.
