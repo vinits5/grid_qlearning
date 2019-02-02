@@ -1,0 +1,804 @@
+######0######
+Rewards: -326
+Total Steps: 200
+Average Reward: -1.63
+######1######
+Rewards: -288
+Total Steps: 200
+Average Reward: -1.44
+######2######
+Rewards: -165
+Total Steps: 192
+Average Reward: -0.859375
+######3######
+Rewards: -292
+Total Steps: 200
+Average Reward: -1.46
+######4######
+Rewards: 32
+Total Steps: 47
+Average Reward: 0.68085106383
+######5######
+Rewards: 47
+Total Steps: 54
+Average Reward: 0.87037037037
+######6######
+Rewards: -288
+Total Steps: 200
+Average Reward: -1.44
+######7######
+Rewards: 26
+Total Steps: 53
+Average Reward: 0.490566037736
+######8######
+Rewards: 32
+Total Steps: 45
+Average Reward: 0.711111111111
+######9######
+Rewards: 60
+Total Steps: 31
+Average Reward: 1.93548387097
+######10######
+Rewards: 98
+Total Steps: 3
+Average Reward: 32.6666666667
+######11######
+Rewards: -256
+Total Steps: 200
+Average Reward: -1.28
+######12######
+Rewards: 62
+Total Steps: 33
+Average Reward: 1.87878787879
+######13######
+Rewards: 95
+Total Steps: 6
+Average Reward: 15.8333333333
+######14######
+Rewards: 75
+Total Steps: 22
+Average Reward: 3.40909090909
+######15######
+Rewards: -278
+Total Steps: 200
+Average Reward: -1.39
+######16######
+Rewards: 23
+Total Steps: 52
+Average Reward: 0.442307692308
+######17######
+Rewards: -110
+Total Steps: 163
+Average Reward: -0.674846625767
+######18######
+Rewards: -124
+Total Steps: 183
+Average Reward: -0.677595628415
+######19######
+Rewards: -45
+Total Steps: 104
+Average Reward: -0.432692307692
+######20######
+Rewards: 79
+Total Steps: 22
+Average Reward: 3.59090909091
+######21######
+Rewards: -119
+Total Steps: 166
+Average Reward: -0.71686746988
+######22######
+Rewards: 92
+Total Steps: 9
+Average Reward: 10.2222222222
+######23######
+Rewards: 27
+Total Steps: 72
+Average Reward: 0.375
+######24######
+Rewards: 60
+Total Steps: 41
+Average Reward: 1.46341463415
+######25######
+Rewards: 67
+Total Steps: 32
+Average Reward: 2.09375
+######26######
+Rewards: -132
+Total Steps: 165
+Average Reward: -0.8
+######27######
+Rewards: 49
+Total Steps: 46
+Average Reward: 1.0652173913
+######28######
+Rewards: 88
+Total Steps: 13
+Average Reward: 6.76923076923
+######29######
+Rewards: 44
+Total Steps: 57
+Average Reward: 0.771929824561
+######30######
+Rewards: 27
+Total Steps: 72
+Average Reward: 0.375
+######31######
+Rewards: 85
+Total Steps: 16
+Average Reward: 5.3125
+######32######
+Rewards: 29
+Total Steps: 66
+Average Reward: 0.439393939394
+######33######
+Rewards: 5
+Total Steps: 74
+Average Reward: 0.0675675675676
+######34######
+Rewards: 100
+Total Steps: 1
+Average Reward: 100.0
+######35######
+Rewards: 79
+Total Steps: 20
+Average Reward: 3.95
+######36######
+Rewards: 59
+Total Steps: 28
+Average Reward: 2.10714285714
+######37######
+Rewards: 84
+Total Steps: 17
+Average Reward: 4.94117647059
+######38######
+Rewards: 7
+Total Steps: 72
+Average Reward: 0.0972222222222
+######39######
+Rewards: 74
+Total Steps: 25
+Average Reward: 2.96
+######40######
+Rewards: 50
+Total Steps: 51
+Average Reward: 0.980392156863
+######41######
+Rewards: 64
+Total Steps: 33
+Average Reward: 1.93939393939
+######42######
+Rewards: 75
+Total Steps: 26
+Average Reward: 2.88461538462
+######43######
+Rewards: 98
+Total Steps: 3
+Average Reward: 32.6666666667
+######44######
+Rewards: 79
+Total Steps: 20
+Average Reward: 3.95
+######45######
+Rewards: 87
+Total Steps: 14
+Average Reward: 6.21428571429
+######46######
+Rewards: 84
+Total Steps: 17
+Average Reward: 4.94117647059
+######47######
+Rewards: 65
+Total Steps: 34
+Average Reward: 1.91176470588
+######48######
+Rewards: 84
+Total Steps: 17
+Average Reward: 4.94117647059
+######49######
+Rewards: 57
+Total Steps: 44
+Average Reward: 1.29545454545
+######50######
+Rewards: 92
+Total Steps: 9
+Average Reward: 10.2222222222
+######51######
+Rewards: 84
+Total Steps: 17
+Average Reward: 4.94117647059
+######52######
+Rewards: 82
+Total Steps: 19
+Average Reward: 4.31578947368
+######53######
+Rewards: 81
+Total Steps: 20
+Average Reward: 4.05
+######54######
+Rewards: 85
+Total Steps: 16
+Average Reward: 5.3125
+######55######
+Rewards: 40
+Total Steps: 59
+Average Reward: 0.677966101695
+######56######
+Rewards: 93
+Total Steps: 8
+Average Reward: 11.625
+######57######
+Rewards: 83
+Total Steps: 18
+Average Reward: 4.61111111111
+######58######
+Rewards: 84
+Total Steps: 17
+Average Reward: 4.94117647059
+######59######
+Rewards: 80
+Total Steps: 21
+Average Reward: 3.80952380952
+######60######
+Rewards: 96
+Total Steps: 5
+Average Reward: 19.2
+######61######
+Rewards: 79
+Total Steps: 22
+Average Reward: 3.59090909091
+######62######
+Rewards: 79
+Total Steps: 22
+Average Reward: 3.59090909091
+######63######
+Rewards: 89
+Total Steps: 12
+Average Reward: 7.41666666667
+######64######
+Rewards: 52
+Total Steps: 47
+Average Reward: 1.10638297872
+######65######
+Rewards: 31
+Total Steps: 56
+Average Reward: 0.553571428571
+######66######
+Rewards: 86
+Total Steps: 15
+Average Reward: 5.73333333333
+######67######
+Rewards: 71
+Total Steps: 30
+Average Reward: 2.36666666667
+######68######
+Rewards: 100
+Total Steps: 1
+Average Reward: 100.0
+######69######
+Rewards: 59
+Total Steps: 32
+Average Reward: 1.84375
+######70######
+Rewards: 91
+Total Steps: 10
+Average Reward: 9.1
+######71######
+Rewards: 83
+Total Steps: 18
+Average Reward: 4.61111111111
+######72######
+Rewards: 67
+Total Steps: 30
+Average Reward: 2.23333333333
+######73######
+Rewards: 62
+Total Steps: 37
+Average Reward: 1.67567567568
+######74######
+Rewards: 47
+Total Steps: 50
+Average Reward: 0.94
+######75######
+Rewards: 94
+Total Steps: 7
+Average Reward: 13.4285714286
+######76######
+Rewards: 64
+Total Steps: 29
+Average Reward: 2.20689655172
+######77######
+Rewards: 76
+Total Steps: 25
+Average Reward: 3.04
+######78######
+Rewards: 75
+Total Steps: 26
+Average Reward: 2.88461538462
+######79######
+Rewards: 76
+Total Steps: 25
+Average Reward: 3.04
+######80######
+Rewards: 77
+Total Steps: 24
+Average Reward: 3.20833333333
+######81######
+Rewards: 75
+Total Steps: 26
+Average Reward: 2.88461538462
+######82######
+Rewards: 99
+Total Steps: 2
+Average Reward: 49.5
+######83######
+Rewards: 94
+Total Steps: 7
+Average Reward: 13.4285714286
+######84######
+Rewards: 80
+Total Steps: 21
+Average Reward: 3.80952380952
+######85######
+Rewards: 80
+Total Steps: 21
+Average Reward: 3.80952380952
+######86######
+Rewards: 86
+Total Steps: 15
+Average Reward: 5.73333333333
+######87######
+Rewards: 83
+Total Steps: 18
+Average Reward: 4.61111111111
+######88######
+Rewards: 70
+Total Steps: 27
+Average Reward: 2.59259259259
+######89######
+Rewards: 78
+Total Steps: 23
+Average Reward: 3.39130434783
+######90######
+Rewards: 98
+Total Steps: 3
+Average Reward: 32.6666666667
+######91######
+Rewards: 79
+Total Steps: 22
+Average Reward: 3.59090909091
+######92######
+Rewards: 84
+Total Steps: 17
+Average Reward: 4.94117647059
+######93######
+Rewards: 95
+Total Steps: 6
+Average Reward: 15.8333333333
+######94######
+Rewards: 80
+Total Steps: 21
+Average Reward: 3.80952380952
+######95######
+Rewards: 80
+Total Steps: 21
+Average Reward: 3.80952380952
+######96######
+Rewards: 79
+Total Steps: 22
+Average Reward: 3.59090909091
+######97######
+Rewards: 78
+Total Steps: 23
+Average Reward: 3.39130434783
+######98######
+Rewards: 84
+Total Steps: 17
+Average Reward: 4.94117647059
+######99######
+Rewards: 78
+Total Steps: 23
+Average Reward: 3.39130434783
+######100######
+Rewards: 89
+Total Steps: 12
+Average Reward: 7.41666666667
+######101######
+Rewards: 75
+Total Steps: 26
+Average Reward: 2.88461538462
+######102######
+Rewards: 60
+Total Steps: 41
+Average Reward: 1.46341463415
+######103######
+Rewards: 82
+Total Steps: 19
+Average Reward: 4.31578947368
+######104######
+Rewards: 77
+Total Steps: 24
+Average Reward: 3.20833333333
+######105######
+Rewards: 76
+Total Steps: 25
+Average Reward: 3.04
+######106######
+Rewards: 94
+Total Steps: 7
+Average Reward: 13.4285714286
+######107######
+Rewards: 82
+Total Steps: 19
+Average Reward: 4.31578947368
+######108######
+Rewards: 92
+Total Steps: 9
+Average Reward: 10.2222222222
+######109######
+Rewards: 82
+Total Steps: 19
+Average Reward: 4.31578947368
+######110######
+Rewards: 79
+Total Steps: 22
+Average Reward: 3.59090909091
+######111######
+Rewards: 79
+Total Steps: 22
+Average Reward: 3.59090909091
+######112######
+Rewards: 94
+Total Steps: 7
+Average Reward: 13.4285714286
+######113######
+Rewards: 83
+Total Steps: 18
+Average Reward: 4.61111111111
+######114######
+Rewards: 86
+Total Steps: 15
+Average Reward: 5.73333333333
+######115######
+Rewards: 81
+Total Steps: 20
+Average Reward: 4.05
+######116######
+Rewards: 83
+Total Steps: 18
+Average Reward: 4.61111111111
+######117######
+Rewards: 82
+Total Steps: 19
+Average Reward: 4.31578947368
+######118######
+Rewards: 82
+Total Steps: 19
+Average Reward: 4.31578947368
+######119######
+Rewards: 76
+Total Steps: 25
+Average Reward: 3.04
+######120######
+Rewards: 73
+Total Steps: 28
+Average Reward: 2.60714285714
+######121######
+Rewards: 100
+Total Steps: 1
+Average Reward: 100.0
+######122######
+Rewards: 84
+Total Steps: 17
+Average Reward: 4.94117647059
+######123######
+Rewards: 80
+Total Steps: 21
+Average Reward: 3.80952380952
+######124######
+Rewards: 78
+Total Steps: 23
+Average Reward: 3.39130434783
+######125######
+Rewards: 81
+Total Steps: 20
+Average Reward: 4.05
+######126######
+Rewards: 95
+Total Steps: 6
+Average Reward: 15.8333333333
+######127######
+Rewards: 64
+Total Steps: 35
+Average Reward: 1.82857142857
+######128######
+Rewards: 56
+Total Steps: 43
+Average Reward: 1.3023255814
+######129######
+Rewards: 82
+Total Steps: 19
+Average Reward: 4.31578947368
+######130######
+Rewards: 83
+Total Steps: 18
+Average Reward: 4.61111111111
+######131######
+Rewards: 82
+Total Steps: 19
+Average Reward: 4.31578947368
+######132######
+Rewards: 96
+Total Steps: 5
+Average Reward: 19.2
+######133######
+Rewards: 62
+Total Steps: 39
+Average Reward: 1.58974358974
+######134######
+Rewards: 100
+Total Steps: 1
+Average Reward: 100.0
+######135######
+Rewards: 83
+Total Steps: 18
+Average Reward: 4.61111111111
+######136######
+Rewards: 85
+Total Steps: 16
+Average Reward: 5.3125
+######137######
+Rewards: 88
+Total Steps: 13
+Average Reward: 6.76923076923
+######138######
+Rewards: 79
+Total Steps: 22
+Average Reward: 3.59090909091
+######139######
+Rewards: 90
+Total Steps: 11
+Average Reward: 8.18181818182
+######140######
+Rewards: 72
+Total Steps: 29
+Average Reward: 2.48275862069
+######141######
+Rewards: 88
+Total Steps: 13
+Average Reward: 6.76923076923
+######142######
+Rewards: 75
+Total Steps: 24
+Average Reward: 3.125
+######143######
+Rewards: 81
+Total Steps: 20
+Average Reward: 4.05
+######144######
+Rewards: 84
+Total Steps: 17
+Average Reward: 4.94117647059
+######145######
+Rewards: 90
+Total Steps: 11
+Average Reward: 8.18181818182
+######146######
+Rewards: 87
+Total Steps: 14
+Average Reward: 6.21428571429
+######147######
+Rewards: 97
+Total Steps: 4
+Average Reward: 24.25
+######148######
+Rewards: 74
+Total Steps: 27
+Average Reward: 2.74074074074
+######149######
+Rewards: 78
+Total Steps: 23
+Average Reward: 3.39130434783
+######150######
+Rewards: 97
+Total Steps: 4
+Average Reward: 24.25
+######151######
+Rewards: 79
+Total Steps: 22
+Average Reward: 3.59090909091
+######152######
+Rewards: 86
+Total Steps: 15
+Average Reward: 5.73333333333
+######153######
+Rewards: 69
+Total Steps: 32
+Average Reward: 2.15625
+######154######
+Rewards: 78
+Total Steps: 23
+Average Reward: 3.39130434783
+######155######
+Rewards: 83
+Total Steps: 18
+Average Reward: 4.61111111111
+######156######
+Rewards: 66
+Total Steps: 35
+Average Reward: 1.88571428571
+######157######
+Rewards: 91
+Total Steps: 10
+Average Reward: 9.1
+######158######
+Rewards: 86
+Total Steps: 15
+Average Reward: 5.73333333333
+######159######
+Rewards: 83
+Total Steps: 18
+Average Reward: 4.61111111111
+######160######
+Rewards: 82
+Total Steps: 19
+Average Reward: 4.31578947368
+######161######
+Rewards: 82
+Total Steps: 19
+Average Reward: 4.31578947368
+######162######
+Rewards: 73
+Total Steps: 28
+Average Reward: 2.60714285714
+######163######
+Rewards: 79
+Total Steps: 22
+Average Reward: 3.59090909091
+######164######
+Rewards: 84
+Total Steps: 17
+Average Reward: 4.94117647059
+######165######
+Rewards: 82
+Total Steps: 19
+Average Reward: 4.31578947368
+######166######
+Rewards: 88
+Total Steps: 13
+Average Reward: 6.76923076923
+######167######
+Rewards: 98
+Total Steps: 3
+Average Reward: 32.6666666667
+######168######
+Rewards: 79
+Total Steps: 22
+Average Reward: 3.59090909091
+######169######
+Rewards: 84
+Total Steps: 17
+Average Reward: 4.94117647059
+######170######
+Rewards: 92
+Total Steps: 9
+Average Reward: 10.2222222222
+######171######
+Rewards: 84
+Total Steps: 17
+Average Reward: 4.94117647059
+######172######
+Rewards: 83
+Total Steps: 18
+Average Reward: 4.61111111111
+######173######
+Rewards: 97
+Total Steps: 4
+Average Reward: 24.25
+######174######
+Rewards: 97
+Total Steps: 4
+Average Reward: 24.25
+######175######
+Rewards: 62
+Total Steps: 37
+Average Reward: 1.67567567568
+######176######
+Rewards: 84
+Total Steps: 17
+Average Reward: 4.94117647059
+######177######
+Rewards: 90
+Total Steps: 11
+Average Reward: 8.18181818182
+######178######
+Rewards: 88
+Total Steps: 13
+Average Reward: 6.76923076923
+######179######
+Rewards: 81
+Total Steps: 18
+Average Reward: 4.5
+######180######
+Rewards: 85
+Total Steps: 16
+Average Reward: 5.3125
+######181######
+Rewards: 81
+Total Steps: 20
+Average Reward: 4.05
+######182######
+Rewards: 86
+Total Steps: 15
+Average Reward: 5.73333333333
+######183######
+Rewards: 100
+Total Steps: 1
+Average Reward: 100.0
+######184######
+Rewards: 81
+Total Steps: 20
+Average Reward: 4.05
+######185######
+Rewards: 80
+Total Steps: 21
+Average Reward: 3.80952380952
+######186######
+Rewards: 67
+Total Steps: 34
+Average Reward: 1.97058823529
+######187######
+Rewards: 96
+Total Steps: 5
+Average Reward: 19.2
+######188######
+Rewards: 80
+Total Steps: 21
+Average Reward: 3.80952380952
+######189######
+Rewards: 85
+Total Steps: 16
+Average Reward: 5.3125
+######190######
+Rewards: 64
+Total Steps: 37
+Average Reward: 1.72972972973
+######191######
+Rewards: 84
+Total Steps: 17
+Average Reward: 4.94117647059
+######192######
+Rewards: 68
+Total Steps: 33
+Average Reward: 2.06060606061
+######193######
+Rewards: 95
+Total Steps: 6
+Average Reward: 15.8333333333
+######194######
+Rewards: 95
+Total Steps: 6
+Average Reward: 15.8333333333
+######195######
+Rewards: 78
+Total Steps: 23
+Average Reward: 3.39130434783
+######196######
+Rewards: 82
+Total Steps: 19
+Average Reward: 4.31578947368
+######197######
+Rewards: 81
+Total Steps: 20
+Average Reward: 4.05
+######198######
+Rewards: 86
+Total Steps: 15
+Average Reward: 5.73333333333
+######199######
+Rewards: 82
+Total Steps: 19
+Average Reward: 4.31578947368
+######200######
+Rewards: 84
+Total Steps: 17
+Average Reward: 4.94117647059
