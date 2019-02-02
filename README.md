@@ -19,11 +19,11 @@ Sample examples are already provided.
 **python qlearning.py --mode train**\
 *lr* is learning rate\
 *y* is the gamma used in Bellman Optimality Equation.\
-*EPOCHS* is used to define maximum number epochs for training.\
+*EPOCHS* is used to define maximum number epochs for training.
 
 ### Test learned agent:
 **python qlearning.py --mode test**\
-*model* is used to define the world file used in maps/ folder.\
+*model* is used to define the world file used in maps folder.
 
 #### Trained Agent:
 <p align="center">
