@@ -27,11 +27,11 @@ Sample examples are already provided.
 
 #### Trained Agent:
 <p align="center">
-  <img src="https://github.com/vinits5/grid_qlearning/blob/master/world10x10_model1/trained_agent.gif" width="512" height="512" title="Trained Agent">
+  <img src="https://github.com/vinits5/grid_qlearning/blob/master/world10x10_model1/trained_agent.gif" width="256" height="256" title="Trained Agent">
 </p>
 
 
-#### State Value:
+#### State Values:
 <p align="center">
   <img src="https://github.com/vinits5/grid_qlearning/blob/master/world10x10_model1/state_value.gif" title="State Value GIF">
 </p>
