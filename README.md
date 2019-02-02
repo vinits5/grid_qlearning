@@ -26,7 +26,10 @@ Sample examples are already provided.
 *model* is used to define the world file used in maps/ folder.\
 
 #### Trained Agent:
-![](https://github.com/vinits5/grid_qlearning/blob/master/world10x10_model1/trained_agent.gif)
+<p align="center">
+  <img src="https://github.com/vinits5/grid_qlearning/blob/master/world10x10_model1/trained_agent.gif" width="512" height="512" title="Trained Agent">
+</p>
+
 
 #### State Value:
 <p align="center">
