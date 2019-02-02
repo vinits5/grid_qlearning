@@ -16,14 +16,14 @@ You can give name to screen by "caption" argument.\
 Sample examples are already provided.
 
 ### Train the agent:
-**python qlearning.py --mode train**
-*lr* is learning rate
-*y* is the gamma used in Bellman Optimality Equation.
-*EPOCHS* is used to define maximum number epochs for training.
+**python qlearning.py --mode train**\
+*lr* is learning rate\
+*y* is the gamma used in Bellman Optimality Equation.\
+*EPOCHS* is used to define maximum number epochs for training.\
 
 ### Test learned agent:
-**python qlearning.py --mode test**
-*model* is used to define the world file used in maps/ folder.
+**python qlearning.py --mode test**\
+*model* is used to define the world file used in maps/ folder.\
 
 #### Following is one of result:
 [](https://github.com/vinits5/grid_qlearning/blob/master/world10x10_model1/trained_agent.gif)
