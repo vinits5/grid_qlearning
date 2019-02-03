@@ -25,13 +25,13 @@ Sample examples are already provided.
 **python qlearning.py --mode test**\
 *model* is used to define the world file used in maps folder.
 
-#### Trained Agent:
+## Trained Agent:
 <p align="center">
   <img src="https://github.com/vinits5/grid_qlearning/blob/master/world10x10_model1/trained_agent.gif" width="400" height="400" title="Trained Agent">
 </p>
 
 
-#### State Values:
+## State Values:
 <p align="center">
   <img src="https://github.com/vinits5/grid_qlearning/blob/master/world10x10_model1/state_value.gif" title="State Value GIF">
 </p>
